@@ -1,0 +1,11 @@
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.exe
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.deps.json
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.runtimeconfig.json
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.runtimeconfig.dev.json
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.dll
+C:\dev\FIAP\Treinamento\calculadoraSimples\bin\Debug\netcoreapp3.1\calculadoraSimples.pdb
+C:\dev\FIAP\Treinamento\calculadoraSimples\obj\Debug\netcoreapp3.1\calculadoraSimples.csprojAssemblyReference.cache
+C:\dev\FIAP\Treinamento\calculadoraSimples\obj\Debug\netcoreapp3.1\calculadoraSimples.AssemblyInfoInputs.cache
+C:\dev\FIAP\Treinamento\calculadoraSimples\obj\Debug\netcoreapp3.1\calculadoraSimples.AssemblyInfo.cs
+C:\dev\FIAP\Treinamento\calculadoraSimples\obj\Debug\netcoreapp3.1\calculadoraSimples.dll
+C:\dev\FIAP\Treinamento\calculadoraSimples\obj\Debug\netcoreapp3.1\calculadoraSimples.pdb
